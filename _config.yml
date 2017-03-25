@@ -1,1 +1,6 @@
+title: HealthSoft SQA Office
+description: description
 theme: jekyll-theme-cayman
+repository: RoToRx88/HealthSoft-SQA
+show_downloads: true
+documentation: './docs/index.html'
