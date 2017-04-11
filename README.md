@@ -9,8 +9,6 @@ Welcome one the SQA website of HealthSoft. The goal of the SQA office is to impr
 My name is Nicolas COMTE, my student number is D16124638, and my email is d16124638 [at] mydit.ie
 I oversee the Software Quality Assurance office.
 
-##
-
 ## Why a SQA office?
 
 During many years HealthSoft worked very well without any SQA Office. But as the company grow, and our customers are being more exigent we must adapt our process and our way of developing software.
@@ -18,7 +16,7 @@ That's what the SQA Office if intended for. During the following weeks, we will 
 Then we'll plan the actions to take and act in consequences.
 Finally, we'll evaluate the results and the benefits of the actions taken, and plan again other actions if needed.
 
-## Description of the problem
+## State of art
 
 The actual process of project management is following a waterfall cycle.
 The major disadvantage of this project cycle is that we cannot assure a effective monitoring with the customer.
@@ -28,17 +26,14 @@ Also, there is not much feedback from the development team about the problems th
 ## Agile method, Scrum master: a new solution
 
 ### Agile
-* http://agilemanifesto.org/
-* copy past the 12 principles: http://agilemanifesto.org/iso/en/principles.html
-
-----------------------
 
 To manage a project such as a software development there is different ways to do. Here at HealthSoft since a long time we use a traditional waterfall method. You all use it every day on every project and it works.
 Recently, in the 1990 a new method was introduced. This method is called __Agile method.__ This method is particularly adapted to the software development environment and is today widely used in many companies.
-Agile method is ruled by a manifesto, which is accessible at the following address: http://agilemanifesto.org/
+Agile method is ruled by a manifesto, which is accessible at the following address: [agilemanifesto.org](http://agilemanifesto.org/)
 
-* Here are the 12 principles of the Agile Manifesto (_source: http://agilemanifesto.org/iso/en/principles.html_)
-Our highest priority is to satisfy the customer
+Here are the 12 principles of the Agile Manifesto (_source: [agilemanifesto.org/iso/en/principles](http://agilemanifesto.org/iso/en/principles.html)_)
+
+* Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.
 
@@ -80,24 +75,19 @@ emerge from self-organizing teams.
 to become more effective, then tunes and adjusts
 its behavior accordingly.
 
-
-
-----------------------
-
 ### Scrum master
 
-* very interesting description http://whatis.techtarget.com/definition/scrum-master
 1. What did you do yesterday?
 2. What will you do today?
 3. Are there any impediments in your way?
 
-__Although the title of scrum master sounds powerful, the scrum master is not the project leader and is not held accountable for outcomes. The team as a whole is responsible for outcomes.__
-
 ----------------------
 
-> The authors described a new approach to commercial product-development that would increase speed and flexibility, based on case studies from manufacturing firms in the automotive, photocopier and printer industries.[3] They called this the holistic or rugby approach, as the whole process is performed by one cross-functional team across multiple overlapping phases, where the team "tries to go the distance as a unit, passing the ball back and forth".[3] (In rugby football, a scrum refers to a tight-packed formation of players with their heads down who attempt to gain possession of the ball.[6]) _source: [Wikipedia]( https://goo.gl/rxUOZs)._
+> The authors described a new approach to commercial product-development that would increase speed and flexibility, based on case studies from manufacturing firms in the automotive, photocopier and printer industries. They called this the holistic or rugby approach, as the whole process is performed by one cross-functional team across multiple overlapping phases, where the team "tries to go the distance as a unit, passing the ball back and forth". (In rugby football, a scrum refers to a tight-packed formation of players with their heads down who attempt to gain possession of the ball.)
 
-Srum is an agile framework where a Srum master is playing a role of facilitator in the agile process. In this framework, the team self-organize and can make change quickly. The three pillars of Scrum are __transparency, inspection,__ and __adaptation__. The team need to inspect the product being developed frequently so they can spot any problem or deviance as soon as possible. Each member of the team must trust and be open. Here are the 5 values a team member should match:
+>_source: [Wikipedia]( https://goo.gl/rxUOZs)._
+
+Srum is an agile framework that introduce a set of process in accordance with the Agile manifest. In this framework, the team self-organize and can make change quickly. The three pillars of Scrum are __transparency, inspection,__ and __adaptation__. The team need to inspect the product being developed frequently so they can spot any problem or deviance as soon as possible. Each member of the team must trust and be open. Here are the 5 values a team member should match:
 * Commitment: You individually commit to achieve your team goals.
 * Courage: You know you have the courage to work through conflict and challenges as a team, and do the right thing.
 * Focus: You focus your work on what is in your backlog, and your work is only done through the backlog.
@@ -105,11 +95,13 @@ Srum is an agile framework where a Srum master is playing a role of facilitator 
 * Respect: You respect each member of the team as technically capable of doing the work, and when they face a problem, you work with them as a team to solve it.
 
 In Scrum master, there is three different roles.
-The __ Product Owner (PO)__ is the person representing the customer’s stakeholders. There is only one PO for each project.  His role is to write customer-centric items sur as user stories. User stories are an informal way to explain a core feature of a software system, written in natural language. The PO role must not be combined with the Scrum Master role. The PO focus on the business side of the product and should not dictate how the team reaches a technical solution.
+The __Product Owner__ is the person representing the customer’s stakeholders. There is only one PO for each project.  His role is to write customer-centric items sur as user stories. User stories are an informal way to explain a core feature of a software system, written in natural language. The Product Owner role must not be combined with the Scrum Master role. The Product Owner focus on the business side of the product and should not dictate how the team reaches a technical solution.
 
-The __Scrum Master (SM)__ is a facilitator, and there is only one SM per team. The SM is __NOT__  a team leader of project manager. His role is to act as a buffer between the development team and any distracting influences. The SM also help the team for example to work on the Definition of Done (DoD) for the product. The DoD is all the criteria required to define a task as done. He also helps the team to work together by acting as a facilitator. A huge responsibility of the SM is also to educate the PO in Scrum principles and agile methodology.
+The __Scrum Master__ is a facilitator, and there is only one Scrum Master per team. The SM is __NOT__  a team leader of project manager. His role is to act as a buffer between the development team and any distracting influences. The Scrum Master also help the team for example to work on the Definition of Done for the product. The Definition of Done is all the criteria required to define a task as done. He also helps the team to work together by acting as a facilitator. A huge responsibility of the Scrum Master is also to educate the PO in Scrum principles and agile methodology.  *__Although the title of scrum master sounds powerful, the scrum master is not the project leader and is not held accountable for outcomes. The team as a whole is responsible for outcomes.__*
 
-The __Development Team (DT)__ is responsible for delivering the product.  
+The __Development Team__ is responsible for delivering the product at the end of each sprint. A Development Team should not excess 10 persons. A DT is self-organized and is cross-functional
+
+
 
 ----------------------
 
