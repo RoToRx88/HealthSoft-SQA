@@ -85,15 +85,14 @@ its behavior accordingly.
 
 
 > The authors described a new approach to commercial product-development that would increase speed and flexibility, based on case studies from manufacturing firms in the automotive, photocopier and printer industries. They called this the holistic or rugby approach, as the whole process is performed by one cross-functional team across multiple overlapping phases, where the team "tries to go the distance as a unit, passing the ball back and forth". (In rugby football, a scrum refers to a tight-packed formation of players with their heads down who attempt to gain possession of the ball.)
-
 >_source: [Wikipedia]( https://goo.gl/rxUOZs)._
 
 Scrum is an agile framework that introduce a set of processes in accordance with the Agile manifest. In this framework, the team self-organize and can make change quickly. The three pillars of Scrum are __transparency, inspection,__ and __adaptation__. The team need to inspect the product being developed frequently so they can spot any problem or deviance as soon as possible. Each member of the team must trust and be open. Here are the 5 values a team member should match:
-* Commitment: You individually commit to achieve your team goals.
-* Courage: You know you have the courage to work through conflict and challenges as a team, and do the right thing.
-* Focus: You focus your work on what is in your backlog, and your work is only done through the backlog.
-* Openness: You must be totally transparent about what you do, and more importantly about the challenge you encounter. There is no judgment here, you are part of a team and you work with the help of the team to resolve the challenge you face.
-* Respect: You respect each member of the team as technically capable of doing the work, and when they face a problem, you work with them as a team to solve it.
+* __Commitment__: You individually commit to achieve your team goals.
+* __Courage__: You know you have the courage to work through conflict and challenges as a team, and do the right thing.
+* __Focus__: You focus your work on what is in your backlog, and your work is only done through the backlog.
+* __Openness__: You must be totally transparent about what you do, and more importantly about the challenge you encounter. There is no judgment here, you are part of a team and you work with the help of the team to resolve the challenge you face.
+* __Respect__: You respect each member of the team as technically capable of doing the work, and when they face a problem, you work with them as a team to solve it.
 
 In Scrum master, there is three different roles.
 The __Product Owner__ is the person representing the customer’s stakeholders. There is only one PO for each project.  His role is to write customer-centric items as user stories. User stories are an informal way to explain a core feature of a software system, written in natural language. The Product Owner role must not be combined with the Scrum Master role. The Product Owner focus on the business side of the product and should not dictate how the team reaches a technical solution.
