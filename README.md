@@ -2,7 +2,7 @@
 
 Welcome one the SQA website of HealthSoft. The goal of the SQA office is to improve practices in order to get better software quality.
 
-> _Abstract:_ For the redaction of this document, I was largely inspired by my experience at Sogilis, a French company developing high quality software, where I worked the last year. We use at Sogilis agile for everything, not only as a process of software development, but also as a methodology for the management of the whole company.
+> _Abstract:_ For the redaction of this document, I was largely inspired by my experience at Sogilis, a French company developing high quality software, where I worked the last year. We use at Sogilis agile as a disruptive way, not only as a process of software development, but also as a methodology for the management of the whole company.
 
 ## Who am I?
 
@@ -95,11 +95,20 @@ Srum is an agile framework that introduce a set of process in accordance with th
 * Respect: You respect each member of the team as technically capable of doing the work, and when they face a problem, you work with them as a team to solve it.
 
 In Scrum master, there is three different roles.
-The __Product Owner__ is the person representing the customer’s stakeholders. There is only one PO for each project.  His role is to write customer-centric items sur as user stories. User stories are an informal way to explain a core feature of a software system, written in natural language. The Product Owner role must not be combined with the Scrum Master role. The Product Owner focus on the business side of the product and should not dictate how the team reaches a technical solution.
+The __Product Owner__ is the person representing the customer’s stakeholders. There is only one PO for each project.  His role is to write customer-centric items as user stories. User stories are an informal way to explain a core feature of a software system, written in natural language. The Product Owner role must not be combined with the Scrum Master role. The Product Owner focus on the business side of the product and should not dictate how the team reaches a technical solution.
 
 The __Scrum Master__ is a facilitator, and there is only one Scrum Master per team. The SM is __NOT__  a team leader of project manager. His role is to act as a buffer between the development team and any distracting influences. The Scrum Master also help the team for example to work on the Definition of Done for the product. The Definition of Done is all the criteria required to define a task as done. He also helps the team to work together by acting as a facilitator. A huge responsibility of the Scrum Master is also to educate the PO in Scrum principles and agile methodology.  *__Although the title of scrum master sounds powerful, the scrum master is not the project leader and is not held accountable for outcomes. The team as a whole is responsible for outcomes.__*
 
-The __Development Team__ is responsible for delivering the product at the end of each sprint. A Development Team should not excess 10 persons. A DT is self-organized and is cross-functional
+The __Development Team__ is responsible for delivering the product at the end of each sprint. A Development Team should not excess 10 persons. A development team is self-organized and is cross-functional
+
+## How a typical project will looks like ?
+![Scrum Framework](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Scrum_Framework.png/1024px-Scrum_Framework.png?1491904277229 "Scrum Framework")
+
+Here is the Scrum framework, which should inspire the way a project is going to be managed by you.
+
+1. First of all, when a new project comes, you'll have to decide who wants to work on it depending of your skills and disponibilities. Once the team created, you'll have to chose a product owner, and a scrum master. They will remain until the end of the project.
+2. The next step is the product owner will have to work with the stakeholder to define what have to be done from a product point of view.
+3. Then the development team will have to define a sprint planning, and fill the backlog according to what the stakeholder wants.
 
 
 
